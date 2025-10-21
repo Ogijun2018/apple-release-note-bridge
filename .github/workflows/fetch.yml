@@ -13,9 +13,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
-        with:
-	  persist-credentials: true
-          node-version: 20
+        persist-credentials: true
+        with: { node-version: 20 }
       - run: npm i
       - run: npx playwright install --with-deps chromium
       - run: npm run fetch
