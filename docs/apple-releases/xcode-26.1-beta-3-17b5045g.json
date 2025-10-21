@@ -1,0 +1,20 @@
+{
+  "sourceUrl": "https://developer.apple.com/go/?id=xcode-26_1-sdk-rn",
+  "sections": {
+    "sdkBuild": "",
+    "newFeatures": [],
+    "changes": [],
+    "resolvedIssues": [
+      "unorderedList",
+      "Fixed: Processor Trace Instrument doesn’t allow for recording on iPhone 17 family of devices.  (161440613)"
+    ],
+    "knownIssues": [
+      "Known-Issues"
+    ],
+    "workarounds": [],
+    "deprecations": [],
+    "apiChanges": [],
+    "requirements": [],
+    "devImpact": []
+  }
+}

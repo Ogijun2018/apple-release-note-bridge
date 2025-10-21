@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2025-10-21T17:51:32.453+09:00",
+  "items": [
+    {
+      "platform": "Xcode",
+      "title": "Xcode 26.1 beta 3 (17B5045g)",
+      "version": "26.1 beta 3",
+      "build": "17B5045g",
+      "releaseDateJST": "Invalid DateTime",
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=10202025g",
+      "notesUrl": "./xcode-26.1-beta-3-17b5045g.json",
+      "slug": "xcode-26.1-beta-3-17b5045g"
+    },
+    {
+      "platform": "iOS",
+      "title": "iOS 26.1 beta 4 (23B5073a)",
+      "version": "26.1 beta 4",
+      "build": "23B5073a",
+      "releaseDateJST": "Invalid DateTime",
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=10202025a",
+      "notesUrl": "./ios-26.1-beta-4-23b5073a.json",
+      "slug": "ios-26.1-beta-4-23b5073a"
+    },
+    {
+      "platform": "iPadOS",
+      "title": "iPadOS 26.1 beta 4 (23B5073a)",
+      "version": "26.1 beta 4",
+      "build": "23B5073a",
+      "releaseDateJST": "Invalid DateTime",
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=10202025b",
+      "notesUrl": "./ipados-26.1-beta-4-23b5073a.json",
+      "slug": "ipados-26.1-beta-4-23b5073a"
+    },
+    {
+      "platform": "macOS",
+      "title": "macOS 26.1 beta 4 (25B5072a)",
+      "version": "26.1 beta 4",
+      "build": "25B5072a",
+      "releaseDateJST": "Invalid DateTime",
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=10202025c",
+      "notesUrl": "./macos-26.1-beta-4-25b5072a.json",
+      "slug": "macos-26.1-beta-4-25b5072a"
+    }
+  ]
+}

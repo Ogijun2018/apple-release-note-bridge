@@ -1,0 +1,24 @@
+{
+  "sourceUrl": "https://developer.apple.com/go/?id=ipados-26_1-rn",
+  "sections": {
+    "sdkBuild": "158236264",
+    "newFeatures": [
+      "heading",
+      "New-Features"
+    ],
+    "changes": [],
+    "resolvedIssues": [
+      "heading",
+      "Resolved-Issues"
+    ],
+    "knownIssues": [
+      "heading",
+      "Known-Issues"
+    ],
+    "workarounds": [],
+    "deprecations": [],
+    "apiChanges": [],
+    "requirements": [],
+    "devImpact": []
+  }
+}
