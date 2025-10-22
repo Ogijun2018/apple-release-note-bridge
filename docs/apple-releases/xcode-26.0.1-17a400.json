@@ -1,0 +1,17 @@
+{
+  "sourceUrl": "https://developer.apple.com/go/?id=xcode-26_0_1-sdk-rn",
+  "sections": {
+    "sdkBuild": "",
+    "newFeatures": [],
+    "changes": [],
+    "resolvedIssues": [
+      "Fixed: Icon Composer documents that use “Lighten”, “Darken” or “Screen” blend modes incorrectly encode as “Normal” when compiled. Blend modes will look correct in Icon Composer, but not at runtime. (160717295)"
+    ],
+    "knownIssues": [],
+    "workarounds": [],
+    "deprecations": [],
+    "apiChanges": [],
+    "requirements": [],
+    "devImpact": []
+  }
+}
