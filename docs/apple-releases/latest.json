@@ -1,55 +1,75 @@
 {
-  "generatedAt": "2025-10-29T00:45:32.535+09:00",
+  "generatedAt": "2025-12-17T00:48:05.324+09:00",
   "items": [
     {
-      "platform": "Xcode",
-      "title": "Xcode 26.1 beta 3 (17B5045g)",
-      "version": "26.1 beta 3",
-      "build": "17B5045g",
-      "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=10202025g",
-      "notesUrl": "./xcode-26.1-beta-3-17b5045g.json",
-      "slug": "xcode-26.1-beta-3-17b5045g"
-    },
-    {
       "platform": "iOS",
-      "title": "iOS 26.1 beta 4 (23B5073a)",
-      "version": "26.1 beta 4",
-      "build": "23B5073a",
+      "title": "iOS 26.3 beta (23D5089e)",
+      "version": "26.3 beta",
+      "build": "23D5089e",
       "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=10202025a",
-      "notesUrl": "./ios-26.1-beta-4-23b5073a.json",
-      "slug": "ios-26.1-beta-4-23b5073a"
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=12152025a",
+      "notesUrl": "./ios-26.3-beta-23d5089e.json",
+      "slug": "ios-26.3-beta-23d5089e"
     },
     {
       "platform": "iPadOS",
-      "title": "iPadOS 26.1 beta 4 (23B5073a)",
-      "version": "26.1 beta 4",
-      "build": "23B5073a",
+      "title": "iPadOS 26.3 beta (23D5089e)",
+      "version": "26.3 beta",
+      "build": "23D5089e",
       "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=10202025b",
-      "notesUrl": "./ipados-26.1-beta-4-23b5073a.json",
-      "slug": "ipados-26.1-beta-4-23b5073a"
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=12152025b",
+      "notesUrl": "./ipados-26.3-beta-23d5089e.json",
+      "slug": "ipados-26.3-beta-23d5089e"
     },
     {
       "platform": "macOS",
-      "title": "macOS 26.1 beta 4 (25B5072a)",
-      "version": "26.1 beta 4",
-      "build": "25B5072a",
+      "title": "macOS 26.3 beta (25D5087f)",
+      "version": "26.3 beta",
+      "build": "25D5087f",
       "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=10202025c",
-      "notesUrl": "./macos-26.1-beta-4-25b5072a.json",
-      "slug": "macos-26.1-beta-4-25b5072a"
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=12152025c",
+      "notesUrl": "./macos-26.3-beta-25d5087f.json",
+      "slug": "macos-26.3-beta-25d5087f"
     },
     {
       "platform": "Xcode",
-      "title": "Xcode 26.0.1 (17A400)",
-      "version": "26.0.1",
-      "build": "17A400",
+      "title": "Xcode 26.2 (17C52)",
+      "version": "26.2",
+      "build": "17C52",
       "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=09222025m",
-      "notesUrl": "./xcode-26.0.1-17a400.json",
-      "slug": "xcode-26.0.1-17a400"
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=12122025i",
+      "notesUrl": "./xcode-26.2-17c52.json",
+      "slug": "xcode-26.2-17c52"
+    },
+    {
+      "platform": "iOS",
+      "title": "iOS 26.2 (23C55)",
+      "version": "26.2",
+      "build": "23C55",
+      "releaseDateJST": "Invalid DateTime",
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=12122025a",
+      "notesUrl": "./ios-26.2-23c55.json",
+      "slug": "ios-26.2-23c55"
+    },
+    {
+      "platform": "iPadOS",
+      "title": "iPadOS 26.2 (23C55)",
+      "version": "26.2",
+      "build": "23C55",
+      "releaseDateJST": "Invalid DateTime",
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=12122025b",
+      "notesUrl": "./ipados-26.2-23c55.json",
+      "slug": "ipados-26.2-23c55"
+    },
+    {
+      "platform": "macOS",
+      "title": "macOS 26.2 (25C56)",
+      "version": "26.2",
+      "build": "25C56",
+      "releaseDateJST": "Invalid DateTime",
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=12122025c",
+      "notesUrl": "./macos-26.2-25c56.json",
+      "slug": "macos-26.2-25c56"
     }
   ]
 }
