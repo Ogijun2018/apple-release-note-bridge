@@ -3,7 +3,8 @@
   "sections": {
     "sdkBuild": "",
     "newFeatures": [
-      "heading"
+      "paragraph",
+      "Enables low-latency communication between Thunderbolt 5 hosts for use cases including distributed AI inference using MLX.  (164123391)"
     ],
     "changes": [],
     "resolvedIssues": [

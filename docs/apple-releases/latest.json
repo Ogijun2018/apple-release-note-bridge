@@ -1,35 +1,35 @@
 {
-  "generatedAt": "2026-01-13T00:50:06.856+09:00",
+  "generatedAt": "2026-01-14T00:50:17.984+09:00",
   "items": [
     {
       "platform": "iOS",
-      "title": "iOS 26.3 beta (23D5089e)",
-      "version": "26.3 beta",
-      "build": "23D5089e",
+      "title": "iOS 26.3 beta 2 (23D5103d)",
+      "version": "26.3 beta 2",
+      "build": "23D5103d",
       "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=12152025a",
-      "notesUrl": "./ios-26.3-beta-23d5089e.json",
-      "slug": "ios-26.3-beta-23d5089e"
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=01122026a",
+      "notesUrl": "./ios-26.3-beta-2-23d5103d.json",
+      "slug": "ios-26.3-beta-2-23d5103d"
     },
     {
       "platform": "iPadOS",
-      "title": "iPadOS 26.3 beta (23D5089e)",
-      "version": "26.3 beta",
-      "build": "23D5089e",
+      "title": "iPadOS 26.3 beta2 (23D5103d)",
+      "version": "26.3 beta2",
+      "build": "23D5103d",
       "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=12152025b",
-      "notesUrl": "./ipados-26.3-beta-23d5089e.json",
-      "slug": "ipados-26.3-beta-23d5089e"
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=01122026b",
+      "notesUrl": "./ipados-26.3-beta2-23d5103d.json",
+      "slug": "ipados-26.3-beta2-23d5103d"
     },
     {
       "platform": "macOS",
-      "title": "macOS 26.3 beta (25D5087f)",
-      "version": "26.3 beta",
-      "build": "25D5087f",
+      "title": "macOS 26.3 beta 2 (25D5101c)",
+      "version": "26.3 beta 2",
+      "build": "25D5101c",
       "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=12152025c",
-      "notesUrl": "./macos-26.3-beta-25d5087f.json",
-      "slug": "macos-26.3-beta-25d5087f"
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=01122026c",
+      "notesUrl": "./macos-26.3-beta-2-25d5101c.json",
+      "slug": "macos-26.3-beta-2-25d5101c"
     },
     {
       "platform": "Xcode",
