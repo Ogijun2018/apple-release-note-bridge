@@ -3,15 +3,14 @@
   "sections": {
     "sdkBuild": "",
     "newFeatures": [
-      "New-Features"
+      "unorderedList"
     ],
     "changes": [],
     "resolvedIssues": [
-      "heading",
-      "Resolved-Issues"
+      "Fixed: Devices set to “Everyone” on 26.2 beta 1 are not discoverable by devices on 26.2 beta 2.  (163636875)"
     ],
     "knownIssues": [
-      "Known-Issues"
+      "heading"
     ],
     "workarounds": [],
     "deprecations": [],
