@@ -3,11 +3,13 @@
   "sections": {
     "sdkBuild": "",
     "newFeatures": [
-      "New-Features"
+      "unorderedList",
+      "GPU Profiling in Metal Debugger is now available for Metal 4. This also requires macOS/iOS/visionOS 26.2 beta 2 or newer.  (136244517)"
     ],
     "changes": [],
     "resolvedIssues": [
-      "paragraph"
+      "heading",
+      "Resolved-Issues"
     ],
     "knownIssues": [],
     "workarounds": [],
