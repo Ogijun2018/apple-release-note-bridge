@@ -1,0 +1,22 @@
+{
+  "sourceUrl": "https://developer.apple.com/go/?id=ipados-26_2-rn",
+  "sections": {
+    "sdkBuild": "",
+    "newFeatures": [
+      "heading"
+    ],
+    "changes": [],
+    "resolvedIssues": [
+      "Resolved-Issues"
+    ],
+    "knownIssues": [
+      "paragraph",
+      "The default TLS Client Hello has been modified. If your app or website communicates with servers configured with strict bot-detection or security policies that only allow traffic with known TLS fingerprints, then users might be unable to login or perform other actions."
+    ],
+    "workarounds": [],
+    "deprecations": [],
+    "apiChanges": [],
+    "requirements": [],
+    "devImpact": []
+  }
+}
