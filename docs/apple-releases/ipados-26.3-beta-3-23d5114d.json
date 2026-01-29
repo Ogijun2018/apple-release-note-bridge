@@ -5,7 +5,9 @@
     "newFeatures": [],
     "changes": [],
     "resolvedIssues": [],
-    "knownIssues": [],
+    "knownIssues": [
+      "Known-Issues"
+    ],
     "workarounds": [],
     "deprecations": [],
     "apiChanges": [],
