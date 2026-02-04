@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-02-04T01:11:51.374+09:00",
+  "generatedAt": "2026-02-05T01:07:41.426+09:00",
   "items": [
+    {
+      "platform": "Xcode",
+      "title": "Xcode 26.3 Release Candidate (17C519)",
+      "version": "26.3 Release Candidate",
+      "build": "17C519",
+      "releaseDateJST": "Invalid DateTime",
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=02032026a",
+      "notesUrl": "./xcode-26.3-release-candidate-17c519.json",
+      "slug": "xcode-26.3-release-candidate-17c519"
+    },
+    {
+      "platform": "iPadOS",
+      "title": "iPadOS 16.7.14 (20H370)",
+      "version": "16.7.14",
+      "build": "20H370",
+      "releaseDateJST": "Invalid DateTime",
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=02022026b",
+      "notesUrl": "./ipados-16.7.14-20h370.json",
+      "slug": "ipados-16.7.14-20h370"
+    },
     {
       "platform": "iOS",
       "title": "iOS 26.3 beta 3 (23D5114d)",

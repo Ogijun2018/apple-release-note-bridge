@@ -1,0 +1,21 @@
+{
+  "sourceUrl": "https://developer.apple.com/go/?id=xcode-26_3-sdk-rn",
+  "sections": {
+    "sdkBuild": "",
+    "newFeatures": [
+      "heading"
+    ],
+    "changes": [],
+    "resolvedIssues": [
+      "Fixed: The coding tools activity indicator bar no longer spontaneously appears in editors after a task has finished.  (163070450)"
+    ],
+    "knownIssues": [
+      "Known-Issues"
+    ],
+    "workarounds": [],
+    "deprecations": [],
+    "apiChanges": [],
+    "requirements": [],
+    "devImpact": []
+  }
+}

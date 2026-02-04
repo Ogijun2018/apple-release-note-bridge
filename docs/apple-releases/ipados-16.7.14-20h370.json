@@ -1,0 +1,21 @@
+{
+  "sourceUrl": "https://developer.apple.com/app-store-connect/release-notes/",
+  "sections": {
+    "sdkBuild": "",
+    "newFeatures": [],
+    "changes": [],
+    "resolvedIssues": [],
+    "knownIssues": [
+      "TestFlight Internal Only distribution from Xcode is not yet supported.",
+      "July 11, 2023",
+      "App Store Connect 1.12.1 is now available on the App Store. This update includes stability improvements and bug fixes.",
+      "July 6, 2023",
+      "You can now submit apps built with Xcode 15 beta 3 using the SDK for iOS 17 beta 3, iPadOS 17 beta 3, visionOS 1 beta, macOS 14 beta 3, tvOS 17 beta 3, and watchOS 10 beta 3 for internal and external testing, with support for the following:"
+    ],
+    "workarounds": [],
+    "deprecations": [],
+    "apiChanges": [],
+    "requirements": [],
+    "devImpact": []
+  }
+}
