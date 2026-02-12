@@ -1,35 +1,35 @@
 {
-  "generatedAt": "2026-02-12T01:35:25.459+09:00",
+  "generatedAt": "2026-02-13T01:29:58.528+09:00",
   "items": [
     {
       "platform": "iOS",
-      "title": "iOS 26.3 RC (23D125)",
-      "version": "26.3 RC",
-      "build": "23D125",
+      "title": "iOS 26.3 (23D127)",
+      "version": "26.3",
+      "build": "23D127",
       "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=02042026a",
-      "notesUrl": "./ios-26.3-rc-23d125.json",
-      "slug": "ios-26.3-rc-23d125"
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=02112026a",
+      "notesUrl": "./ios-26.3-23d127.json",
+      "slug": "ios-26.3-23d127"
     },
     {
       "platform": "iPadOS",
-      "title": "iPadOS 26.3 RC (23D125)",
-      "version": "26.3 RC",
-      "build": "23D125",
+      "title": "iPadOS 26.3 (23D127)",
+      "version": "26.3",
+      "build": "23D127",
       "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=02042026b",
-      "notesUrl": "./ipados-26.3-rc-23d125.json",
-      "slug": "ipados-26.3-rc-23d125"
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=02112026b",
+      "notesUrl": "./ipados-26.3-23d127.json",
+      "slug": "ipados-26.3-23d127"
     },
     {
       "platform": "macOS",
-      "title": "macOS 26.3 RC (25D122)",
-      "version": "26.3 RC",
-      "build": "25D122",
+      "title": "macOS 26.3 (25D125)",
+      "version": "26.3",
+      "build": "25D125",
       "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=02042026c",
-      "notesUrl": "./macos-26.3-rc-25d122.json",
-      "slug": "macos-26.3-rc-25d122"
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=02112026c",
+      "notesUrl": "./macos-26.3-25d125.json",
+      "slug": "macos-26.3-25d125"
     },
     {
       "platform": "Xcode",
