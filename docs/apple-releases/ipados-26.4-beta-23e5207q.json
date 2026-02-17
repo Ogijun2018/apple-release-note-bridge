@@ -1,0 +1,24 @@
+{
+  "sourceUrl": "https://developer.apple.com/go/?id=ipados-26_4-rn",
+  "sections": {
+    "sdkBuild": "",
+    "newFeatures": [
+      "heading",
+      "New-Features"
+    ],
+    "changes": [],
+    "resolvedIssues": [
+      "text",
+      "Fixed: Multiple processes leak"
+    ],
+    "knownIssues": [
+      "text",
+      "Apps might crash when downloading asset packs.  (169648111)"
+    ],
+    "workarounds": [],
+    "deprecations": [],
+    "apiChanges": [],
+    "requirements": [],
+    "devImpact": []
+  }
+}

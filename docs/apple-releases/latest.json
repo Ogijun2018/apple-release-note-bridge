@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-02-17T01:04:36.948+09:00",
+  "generatedAt": "2026-02-18T01:28:35.065+09:00",
   "items": [
+    {
+      "platform": "Xcode",
+      "title": "Xcode 26.4 beta (17E5159k)",
+      "version": "26.4 beta",
+      "build": "17E5159k",
+      "releaseDateJST": "Invalid DateTime",
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=02162026g",
+      "notesUrl": "./xcode-26.4-beta-17e5159k.json",
+      "slug": "xcode-26.4-beta-17e5159k"
+    },
+    {
+      "platform": "iOS",
+      "title": "iOS 26.4 beta (23E5207q)",
+      "version": "26.4 beta",
+      "build": "23E5207q",
+      "releaseDateJST": "Invalid DateTime",
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=02162026a",
+      "notesUrl": "./ios-26.4-beta-23e5207q.json",
+      "slug": "ios-26.4-beta-23e5207q"
+    },
+    {
+      "platform": "iPadOS",
+      "title": "iPadOS 26.4 beta (23E5207q)",
+      "version": "26.4 beta",
+      "build": "23E5207q",
+      "releaseDateJST": "Invalid DateTime",
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=02162026b",
+      "notesUrl": "./ipados-26.4-beta-23e5207q.json",
+      "slug": "ipados-26.4-beta-23e5207q"
+    },
+    {
+      "platform": "macOS",
+      "title": "macOS 26.4 beta (25E5207k)",
+      "version": "26.4 beta",
+      "build": "25E5207k",
+      "releaseDateJST": "Invalid DateTime",
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=02162026c",
+      "notesUrl": "./macos-26.4-beta-25e5207k.json",
+      "slug": "macos-26.4-beta-25e5207k"
+    },
     {
       "platform": "iOS",
       "title": "iOS 26.3 (23D127)",
@@ -30,16 +70,6 @@
       "releasesUrl": "https://developer.apple.com/news/releases/?id=02112026c",
       "notesUrl": "./macos-26.3-25d125.json",
       "slug": "macos-26.3-25d125"
-    },
-    {
-      "platform": "Xcode",
-      "title": "Xcode 26.3 Release Candidate (17C519)",
-      "version": "26.3 Release Candidate",
-      "build": "17C519",
-      "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=02032026a",
-      "notesUrl": "./xcode-26.3-release-candidate-17c519.json",
-      "slug": "xcode-26.3-release-candidate-17c519"
     }
   ]
 }
