@@ -3,11 +3,11 @@
   "sections": {
     "sdkBuild": "",
     "newFeatures": [
-      "heading"
+      "New-Features"
     ],
     "changes": [],
     "resolvedIssues": [
-      "unorderedList"
+      "heading"
     ],
     "knownIssues": [
       "Known-Issues"

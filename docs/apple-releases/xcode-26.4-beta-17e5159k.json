@@ -3,19 +3,20 @@
   "sections": {
     "sdkBuild": "",
     "newFeatures": [
-      "heading",
-      "New-Features"
+      "text",
+      "Xcode source editor extensions display the localized name via the CFBundleName from the Info.plist of the extension bundle.  (139574330) (FB15741224)"
     ],
     "changes": [],
     "resolvedIssues": [
-      "heading"
+      "unorderedList"
     ],
     "knownIssues": [
-      "Known-Issues"
+      "text",
+      "When removing a language from a String Catalog in a Swift Package, it could re-appear.  (169263836)"
     ],
     "workarounds": [],
     "deprecations": [
-      "Deprecations"
+      "heading"
     ],
     "apiChanges": [],
     "requirements": [],

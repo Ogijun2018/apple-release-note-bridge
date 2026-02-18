@@ -3,17 +3,14 @@
   "sections": {
     "sdkBuild": "",
     "newFeatures": [
-      "heading",
-      "New-Features"
+      "unorderedList"
     ],
     "changes": [],
     "resolvedIssues": [
-      "text",
-      "Fixed: Multiple processes leak"
+      "paragraph"
     ],
     "knownIssues": [
-      "text",
-      "Apps might crash when downloading asset packs.  (169648111)"
+      "Known-Issues"
     ],
     "workarounds": [],
     "deprecations": [],
