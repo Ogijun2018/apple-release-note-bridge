@@ -3,14 +3,15 @@
   "sections": {
     "sdkBuild": "",
     "newFeatures": [
-      "unorderedList"
+      "heading",
+      "New-Features"
     ],
     "changes": [],
     "resolvedIssues": [
-      "paragraph"
+      "Fixed: Multiple processes leak"
     ],
     "knownIssues": [
-      "Known-Issues"
+      "paragraph"
     ],
     "workarounds": [],
     "deprecations": [],

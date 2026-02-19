@@ -3,18 +3,19 @@
   "sections": {
     "sdkBuild": "",
     "newFeatures": [
-      "New-Features"
+      "paragraph"
     ],
     "changes": [],
     "resolvedIssues": [
       "heading"
     ],
     "knownIssues": [
+      "heading",
       "Known-Issues"
     ],
     "workarounds": [],
     "deprecations": [
-      "heading"
+      "Deprecations"
     ],
     "apiChanges": [],
     "requirements": [],
