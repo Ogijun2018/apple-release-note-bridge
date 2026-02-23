@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-02-20T01:12:11.799+09:00",
+  "generatedAt": "2026-02-24T01:40:42.054+09:00",
   "items": [
+    {
+      "platform": "Xcode",
+      "title": "Xcode 26.3 Release Candidate 2 (17C528)",
+      "version": "26.3 Release Candidate 2",
+      "build": "17C528",
+      "releaseDateJST": "Invalid DateTime",
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=02202026a",
+      "notesUrl": "./xcode-26.3-release-candidate-2-17c528.json",
+      "slug": "xcode-26.3-release-candidate-2-17c528"
+    },
     {
       "platform": "Xcode",
       "title": "Xcode 26.4 beta (17E5159k)",

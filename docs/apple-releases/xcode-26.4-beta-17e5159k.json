@@ -3,15 +3,14 @@
   "sections": {
     "sdkBuild": "",
     "newFeatures": [
-      "unorderedList",
-      "Xcode source editor extensions display the localized name via the CFBundleName from the Info.plist of the extension bundle.  (139574330) (FB15741224)"
+      "unorderedList"
     ],
     "changes": [],
     "resolvedIssues": [
-      "heading"
+      "text",
+      "Fixed: In the project editor, holding the Option key while selecting an xcconfig file affects every build configuration.  (139901429)"
     ],
     "knownIssues": [
-      "heading",
       "Known-Issues"
     ],
     "workarounds": [],

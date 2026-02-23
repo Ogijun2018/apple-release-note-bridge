@@ -1,0 +1,23 @@
+{
+  "sourceUrl": "https://developer.apple.com/go/?id=xcode-26_3-sdk-rn",
+  "sections": {
+    "sdkBuild": "",
+    "newFeatures": [
+      "heading"
+    ],
+    "changes": [],
+    "resolvedIssues": [
+      "Resolved-Issues"
+    ],
+    "knownIssues": [
+      "heading",
+      "Known-Issues",
+      "Denying Claude or Codex access to a project located in a privacy-protected directory - such as Desktop, Downloads, or Documents - will mean the project cannot be accessed by the agent as no subsequent access request is made and the decision cannot be reversed.  (166387271)"
+    ],
+    "workarounds": [],
+    "deprecations": [],
+    "apiChanges": [],
+    "requirements": [],
+    "devImpact": []
+  }
+}
