@@ -1,17 +1,21 @@
 {
-  "sourceUrl": "https://developer.apple.com/go/?id=ipados-26_3-rn",
+  "sourceUrl": "https://developer.apple.com/go/?id=macos-26_4-rn",
   "sections": {
     "sdkBuild": "",
-    "newFeatures": [],
+    "newFeatures": [
+      "New-Features"
+    ],
     "changes": [],
     "resolvedIssues": [
-      "Resolved-Issues"
+      "paragraph"
     ],
     "knownIssues": [
-      "unorderedList"
+      "Known-Issues"
     ],
     "workarounds": [],
-    "deprecations": [],
+    "deprecations": [
+      "Deprecations"
+    ],
     "apiChanges": [],
     "requirements": [],
     "devImpact": []

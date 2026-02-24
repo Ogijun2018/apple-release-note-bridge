@@ -3,16 +3,14 @@
   "sections": {
     "sdkBuild": "",
     "newFeatures": [
-      "heading"
+      "Xcode 26.3 introduces support for agentic coding, a new way in Xcode for developers to build apps, powered by coding agents from Anthropic and OpenAI. With agentic coding, Xcode can work autonomously toward a developer’s goals — from breaking down tasks to making decisions based on the project architecture, and using built-in tools to get things done."
     ],
     "changes": [],
     "resolvedIssues": [
       "Resolved-Issues"
     ],
     "knownIssues": [
-      "heading",
-      "Known-Issues",
-      "Denying Claude or Codex access to a project located in a privacy-protected directory - such as Desktop, Downloads, or Documents - will mean the project cannot be accessed by the agent as no subsequent access request is made and the decision cannot be reversed.  (166387271)"
+      "unorderedList"
     ],
     "workarounds": [],
     "deprecations": [],

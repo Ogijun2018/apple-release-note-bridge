@@ -1,10 +1,13 @@
 {
-  "sourceUrl": "https://developer.apple.com/go/?id=ipados-26_3-rn",
+  "sourceUrl": "https://developer.apple.com/go/?id=ios-26_4-rn",
   "sections": {
     "sdkBuild": "",
-    "newFeatures": [],
+    "newFeatures": [
+      "New-Features"
+    ],
     "changes": [],
     "resolvedIssues": [
+      "heading",
       "Resolved-Issues"
     ],
     "knownIssues": [
