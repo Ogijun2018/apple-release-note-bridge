@@ -1,5 +1,5 @@
 {
-  "sourceUrl": "https://developer.apple.com/go/?id=xcode-26_4-sdk-rn",
+  "sourceUrl": "https://developer.apple.com/go/?id=xcode-26_3-sdk-rn",
   "sections": {
     "sdkBuild": "",
     "newFeatures": [
@@ -10,7 +10,7 @@
       "Resolved-Issues"
     ],
     "knownIssues": [
-      "unorderedList"
+      "Known-Issues"
     ],
     "workarounds": [],
     "deprecations": [],

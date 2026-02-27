@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-02-27T01:28:25.953+09:00",
+  "generatedAt": "2026-02-28T00:58:49.443+09:00",
   "items": [
+    {
+      "platform": "Xcode",
+      "title": "Xcode 26.3 (17C529)",
+      "version": "26.3",
+      "build": "17C529",
+      "releaseDateJST": "Invalid DateTime",
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=02262026a",
+      "notesUrl": "./xcode-26.3-17c529.json",
+      "slug": "xcode-26.3-17c529"
+    },
     {
       "platform": "Xcode",
       "title": "Xcode 26.4 beta 2 (17E5170d)",
@@ -40,16 +50,6 @@
       "releasesUrl": "https://developer.apple.com/news/releases/?id=02232026c",
       "notesUrl": "./macos-26.4-beta-2-25e5218f.json",
       "slug": "macos-26.4-beta-2-25e5218f"
-    },
-    {
-      "platform": "Xcode",
-      "title": "Xcode 26.3 Release Candidate 2 (17C528)",
-      "version": "26.3 Release Candidate 2",
-      "build": "17C528",
-      "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=02202026a",
-      "notesUrl": "./xcode-26.3-release-candidate-2-17c528.json",
-      "slug": "xcode-26.3-release-candidate-2-17c528"
     },
     {
       "platform": "iOS",
