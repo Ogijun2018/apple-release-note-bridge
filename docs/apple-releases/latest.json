@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-03-03T01:00:09.793+09:00",
+  "generatedAt": "2026-03-04T01:06:40.263+09:00",
   "items": [
+    {
+      "platform": "iOS",
+      "title": "iOS 26.4 beta 3 (23E5223f)",
+      "version": "26.4 beta 3",
+      "build": "23E5223f",
+      "releaseDateJST": "Invalid DateTime",
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=03022026a",
+      "notesUrl": "./ios-26.4-beta-3-23e5223f.json",
+      "slug": "ios-26.4-beta-3-23e5223f"
+    },
+    {
+      "platform": "iPadOS",
+      "title": "iPadOS 26.4 beta 3 (23E5223f)",
+      "version": "26.4 beta 3",
+      "build": "23E5223f",
+      "releaseDateJST": "Invalid DateTime",
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=03022026b",
+      "notesUrl": "./ipados-26.4-beta-3-23e5223f.json",
+      "slug": "ipados-26.4-beta-3-23e5223f"
+    },
     {
       "platform": "Xcode",
       "title": "Xcode 26.3 (17C529)",
@@ -20,26 +40,6 @@
       "releasesUrl": "https://developer.apple.com/news/releases/?id=02232026g",
       "notesUrl": "./xcode-26.4-beta-2-17e5170d.json",
       "slug": "xcode-26.4-beta-2-17e5170d"
-    },
-    {
-      "platform": "iOS",
-      "title": "iOS 26.4 beta 2 (23E5218e)",
-      "version": "26.4 beta 2",
-      "build": "23E5218e",
-      "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=02232026a",
-      "notesUrl": "./ios-26.4-beta-2-23e5218e.json",
-      "slug": "ios-26.4-beta-2-23e5218e"
-    },
-    {
-      "platform": "iPadOS",
-      "title": "iPadOS 26.4 beta 2 (23E5218e)",
-      "version": "26.4 beta 2",
-      "build": "23E5218e",
-      "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=02232026b",
-      "notesUrl": "./ipados-26.4-beta-2-23e5218e.json",
-      "slug": "ipados-26.4-beta-2-23e5218e"
     },
     {
       "platform": "macOS",
