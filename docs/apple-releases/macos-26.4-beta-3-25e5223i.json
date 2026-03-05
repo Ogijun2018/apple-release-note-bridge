@@ -3,14 +3,16 @@
   "sections": {
     "sdkBuild": "",
     "newFeatures": [
-      "You can now check the status of an asset pack while offline by calling"
+      "New-Features"
     ],
     "changes": [],
     "resolvedIssues": [
-      "unorderedList"
+      "heading",
+      "Resolved-Issues"
     ],
     "knownIssues": [
-      "Known-Issues"
+      "unorderedList",
+      "Setting a URL override could break apps from the App Store that use Apple-Hosted Background Assets.  (169558509)"
     ],
     "workarounds": [],
     "deprecations": [

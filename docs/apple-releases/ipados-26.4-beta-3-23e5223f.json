@@ -3,12 +3,11 @@
   "sections": {
     "sdkBuild": "",
     "newFeatures": [
-      "heading"
+      "text"
     ],
     "changes": [],
     "resolvedIssues": [
-      "Resolved-Issues",
-      "Fixed: After submitting a crash/panic report, Feedback UI’s close button might become unresponsive.  (170091186)"
+      "Resolved-Issues"
     ],
     "knownIssues": [
       "Known-Issues"
