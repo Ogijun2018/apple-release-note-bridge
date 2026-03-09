@@ -11,12 +11,11 @@
       "Resolved-Issues"
     ],
     "knownIssues": [
-      "unorderedList",
-      "Setting a URL override could break apps from the App Store that use Apple-Hosted Background Assets.  (169558509)"
+      "Known-Issues"
     ],
     "workarounds": [],
     "deprecations": [
-      "Deprecations"
+      "heading"
     ],
     "apiChanges": [],
     "requirements": [],
