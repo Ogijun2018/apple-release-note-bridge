@@ -1,11 +1,12 @@
 {
-  "sourceUrl": "https://developer.apple.com/go/?id=ios-26_3-rn",
+  "sourceUrl": "https://developer.apple.com/go/?id=xcode-26_4-sdk-rn",
   "sections": {
     "sdkBuild": "",
-    "newFeatures": [],
+    "newFeatures": [
+      "New-Features"
+    ],
     "changes": [],
     "resolvedIssues": [
-      "heading",
       "Resolved-Issues"
     ],
     "knownIssues": [

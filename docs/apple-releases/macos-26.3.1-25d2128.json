@@ -5,10 +5,13 @@
     "newFeatures": [],
     "changes": [],
     "resolvedIssues": [
-      "Resolved-Issues"
+      "Resolved-Issues",
+      "Fixed:"
     ],
     "knownIssues": [
-      "paragraph"
+      "heading",
+      "Known-Issues",
+      "Window resize pointer does not follow the window’s corner shape.  (149726089)"
     ],
     "workarounds": [],
     "deprecations": [],
