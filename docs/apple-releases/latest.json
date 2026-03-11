@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-03-11T01:31:57.839+09:00",
+  "generatedAt": "2026-03-12T01:10:20.955+09:00",
   "items": [
+    {
+      "platform": "macOS",
+      "title": "macOS 26.3.2 (25D2140)",
+      "version": "26.3.2",
+      "build": "25D2140",
+      "releaseDateJST": "Invalid DateTime",
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=03102026a",
+      "notesUrl": "./macos-26.3.2-25d2140.json",
+      "slug": "macos-26.3.2-25d2140"
+    },
     {
       "platform": "Xcode",
       "title": "Xcode 26.4 beta 3 (17E5179g)",
@@ -60,16 +70,6 @@
       "releasesUrl": "https://developer.apple.com/news/releases/?id=03042026b",
       "notesUrl": "./ipados-26.3.1-23d8133.json",
       "slug": "ipados-26.3.1-23d8133"
-    },
-    {
-      "platform": "macOS",
-      "title": "macOS 26.3.1 (25D2128)",
-      "version": "26.3.1",
-      "build": "25D2128",
-      "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=03042026c",
-      "notesUrl": "./macos-26.3.1-25d2128.json",
-      "slug": "macos-26.3.1-25d2128"
     }
   ]
 }
