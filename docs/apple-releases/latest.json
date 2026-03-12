@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-12T01:10:20.955+09:00",
+  "generatedAt": "2026-03-13T01:33:49.854+09:00",
   "items": [
     {
       "platform": "macOS",
@@ -40,36 +40,6 @@
       "releasesUrl": "https://developer.apple.com/news/releases/?id=03092026b",
       "notesUrl": "./ipados-26.4-beta-4-23e5234a.json",
       "slug": "ipados-26.4-beta-4-23e5234a"
-    },
-    {
-      "platform": "macOS",
-      "title": "macOS 26.4 beta 4 (25E5233c)",
-      "version": "26.4 beta 4",
-      "build": "25E5233c",
-      "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=03092026c",
-      "notesUrl": "./macos-26.4-beta-4-25e5233c.json",
-      "slug": "macos-26.4-beta-4-25e5233c"
-    },
-    {
-      "platform": "iOS",
-      "title": "iOS 26.3.1 (23D8133)",
-      "version": "26.3.1",
-      "build": "23D8133",
-      "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=03042026a",
-      "notesUrl": "./ios-26.3.1-23d8133.json",
-      "slug": "ios-26.3.1-23d8133"
-    },
-    {
-      "platform": "iPadOS",
-      "title": "iPadOS 26.3.1 (23D8133)",
-      "version": "26.3.1",
-      "build": "23D8133",
-      "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=03042026b",
-      "notesUrl": "./ipados-26.3.1-23d8133.json",
-      "slug": "ipados-26.3.1-23d8133"
     }
   ]
 }
