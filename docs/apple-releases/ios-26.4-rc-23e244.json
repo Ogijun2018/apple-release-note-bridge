@@ -1,0 +1,21 @@
+{
+  "sourceUrl": "https://developer.apple.com/go/?id=ios-26_4-rn",
+  "sections": {
+    "sdkBuild": "",
+    "newFeatures": [
+      "New-Features"
+    ],
+    "changes": [],
+    "resolvedIssues": [
+      "Resolved-Issues"
+    ],
+    "knownIssues": [
+      "Known-Issues"
+    ],
+    "workarounds": [],
+    "deprecations": [],
+    "apiChanges": [],
+    "requirements": [],
+    "devImpact": []
+  }
+}

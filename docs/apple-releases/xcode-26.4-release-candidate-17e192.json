@@ -1,0 +1,23 @@
+{
+  "sourceUrl": "https://developer.apple.com/go/?id=xcode-26_4-sdk-rn",
+  "sections": {
+    "sdkBuild": "",
+    "newFeatures": [
+      "New-Features"
+    ],
+    "changes": [],
+    "resolvedIssues": [
+      "Resolved-Issues"
+    ],
+    "knownIssues": [
+      "Known-Issues"
+    ],
+    "workarounds": [],
+    "deprecations": [
+      "Deprecations"
+    ],
+    "apiChanges": [],
+    "requirements": [],
+    "devImpact": []
+  }
+}

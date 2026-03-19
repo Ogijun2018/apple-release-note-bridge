@@ -1,0 +1,24 @@
+{
+  "sourceUrl": "https://developer.apple.com/go/?id=macos-26_4-rn",
+  "sections": {
+    "sdkBuild": "",
+    "newFeatures": [
+      "New-Features"
+    ],
+    "changes": [],
+    "resolvedIssues": [
+      "Resolved-Issues"
+    ],
+    "knownIssues": [
+      "paragraph",
+      "Address Sanitizer and Thread Sanitizer might hang on macOS 26.4, iOS 26.4, tvOS 26.4, watchOS 26.4, and visionOS 26.4 when building with Xcode 26.3 or older.  (171762808)"
+    ],
+    "workarounds": [],
+    "deprecations": [
+      "Deprecations"
+    ],
+    "apiChanges": [],
+    "requirements": [],
+    "devImpact": []
+  }
+}
