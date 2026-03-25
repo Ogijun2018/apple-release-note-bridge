@@ -1,45 +1,45 @@
 {
-  "generatedAt": "2026-03-25T01:35:45.895+09:00",
+  "generatedAt": "2026-03-26T01:41:27.090+09:00",
   "items": [
     {
       "platform": "Xcode",
-      "title": "Xcode 26.4 Release Candidate (17E192)",
-      "version": "26.4 Release Candidate",
+      "title": "Xcode 26.4 (17E192)",
+      "version": "26.4",
       "build": "17E192",
       "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=03182026i",
-      "notesUrl": "./xcode-26.4-release-candidate-17e192.json",
-      "slug": "xcode-26.4-release-candidate-17e192"
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=03242026i",
+      "notesUrl": "./xcode-26.4-17e192.json",
+      "slug": "xcode-26.4-17e192"
     },
     {
       "platform": "iOS",
-      "title": "iOS 26.4 RC (23E244)",
-      "version": "26.4 RC",
-      "build": "23E244",
+      "title": "iOS 26.4 (23E246)",
+      "version": "26.4",
+      "build": "23E246",
       "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=03182026a",
-      "notesUrl": "./ios-26.4-rc-23e244.json",
-      "slug": "ios-26.4-rc-23e244"
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=03242026a",
+      "notesUrl": "./ios-26.4-23e246.json",
+      "slug": "ios-26.4-23e246"
     },
     {
       "platform": "iPadOS",
-      "title": "iPadOS 26.4 RC (23E244)",
-      "version": "26.4 RC",
-      "build": "23E244",
+      "title": "iPadOS 26.4 (23E246)",
+      "version": "26.4",
+      "build": "23E246",
       "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=03182026b",
-      "notesUrl": "./ipados-26.4-rc-23e244.json",
-      "slug": "ipados-26.4-rc-23e244"
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=03242026b",
+      "notesUrl": "./ipados-26.4-23e246.json",
+      "slug": "ipados-26.4-23e246"
     },
     {
       "platform": "macOS",
-      "title": "macOS 26.4 RC (25E243)",
-      "version": "26.4 RC",
-      "build": "25E243",
+      "title": "macOS 26.4 (25E246)",
+      "version": "26.4",
+      "build": "25E246",
       "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=03182026c",
-      "notesUrl": "./macos-26.4-rc-25e243.json",
-      "slug": "macos-26.4-rc-25e243"
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=03242026c",
+      "notesUrl": "./macos-26.4-25e246.json",
+      "slug": "macos-26.4-25e246"
     }
   ]
 }
