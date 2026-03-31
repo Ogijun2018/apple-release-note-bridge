@@ -7,15 +7,16 @@
     ],
     "changes": [],
     "resolvedIssues": [
-      "heading",
-      "Resolved-Issues"
+      "text",
+      "Fixed: In the project editor, holding the Option key while selecting an xcconfig file affects every build configuration.  (139901429)"
     ],
     "knownIssues": [
-      "unorderedList"
+      "heading",
+      "Known-Issues"
     ],
     "workarounds": [],
     "deprecations": [
-      "Deprecations"
+      "heading"
     ],
     "apiChanges": [],
     "requirements": [],

@@ -1,21 +1,17 @@
 {
-  "sourceUrl": "https://developer.apple.com/go/?id=macos-26_4-rn",
+  "sourceUrl": "https://developer.apple.com/go/?id=macos-26_5-rn",
   "sections": {
     "sdkBuild": "",
     "newFeatures": [
       "New-Features"
     ],
     "changes": [],
-    "resolvedIssues": [
-      "Resolved-Issues"
-    ],
+    "resolvedIssues": [],
     "knownIssues": [
-      "unorderedList"
+      "Known-Issues"
     ],
     "workarounds": [],
-    "deprecations": [
-      "Deprecations"
-    ],
+    "deprecations": [],
     "apiChanges": [],
     "requirements": [],
     "devImpact": []
