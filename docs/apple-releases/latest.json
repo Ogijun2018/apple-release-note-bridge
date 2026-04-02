@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-02T01:31:09.114+09:00",
+  "generatedAt": "2026-04-03T01:30:17.611+09:00",
   "items": [
     {
       "platform": "Xcode",
@@ -60,26 +60,6 @@
       "releasesUrl": "https://developer.apple.com/news/releases/?id=03242026a",
       "notesUrl": "./ios-26.4-23e246.json",
       "slug": "ios-26.4-23e246"
-    },
-    {
-      "platform": "iPadOS",
-      "title": "iPadOS 26.4 (23E246)",
-      "version": "26.4",
-      "build": "23E246",
-      "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=03242026b",
-      "notesUrl": "./ipados-26.4-23e246.json",
-      "slug": "ipados-26.4-23e246"
-    },
-    {
-      "platform": "macOS",
-      "title": "macOS 26.4 (25E246)",
-      "version": "26.4",
-      "build": "25E246",
-      "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=03242026c",
-      "notesUrl": "./macos-26.4-25e246.json",
-      "slug": "macos-26.4-25e246"
     }
   ]
 }
