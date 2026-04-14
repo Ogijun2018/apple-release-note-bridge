@@ -1,0 +1,21 @@
+{
+  "sourceUrl": "https://developer.apple.com/go/?id=ipados-26_5-rn",
+  "sections": {
+    "sdkBuild": "",
+    "newFeatures": [
+      "heading",
+      "New-Features"
+    ],
+    "changes": [],
+    "resolvedIssues": [
+      "paragraph",
+      "Fixed: An issue preventing SKTestSession from using the selected StoreKit configuration during unit tests, resulting in failed test actions.  (172583218) (FB22237318)"
+    ],
+    "knownIssues": [],
+    "workarounds": [],
+    "deprecations": [],
+    "apiChanges": [],
+    "requirements": [],
+    "devImpact": []
+  }
+}

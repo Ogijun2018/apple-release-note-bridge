@@ -3,12 +3,11 @@
   "sections": {
     "sdkBuild": "",
     "newFeatures": [
-      "heading"
+      "You can now check the status of an asset pack while offline by calling"
     ],
     "changes": [],
     "resolvedIssues": [
-      "heading",
-      "Resolved-Issues"
+      "unorderedList"
     ],
     "knownIssues": [
       "unorderedList"

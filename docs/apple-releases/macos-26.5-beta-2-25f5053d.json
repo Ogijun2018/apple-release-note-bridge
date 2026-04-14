@@ -1,5 +1,5 @@
 {
-  "sourceUrl": "https://developer.apple.com/go/?id=ios-26_4-rn",
+  "sourceUrl": "https://developer.apple.com/go/?id=macos-26_5-rn",
   "sections": {
     "sdkBuild": "",
     "newFeatures": [
@@ -7,12 +7,9 @@
     ],
     "changes": [],
     "resolvedIssues": [
-      "paragraph",
-      "Fixed: Apps might crash when downloading asset packs.  (169648111)"
+      "Resolved-Issues"
     ],
-    "knownIssues": [
-      "Known-Issues"
-    ],
+    "knownIssues": [],
     "workarounds": [],
     "deprecations": [],
     "apiChanges": [],
