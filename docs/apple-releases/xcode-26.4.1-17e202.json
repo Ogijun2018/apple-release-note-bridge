@@ -1,0 +1,24 @@
+{
+  "sourceUrl": "https://developer.apple.com/go/?id=xcode-26_4-sdk-rn",
+  "sections": {
+    "sdkBuild": "",
+    "newFeatures": [
+      "New-Features"
+    ],
+    "changes": [],
+    "resolvedIssues": [
+      "text",
+      "Fixed: In the project editor, holding the Option key while selecting an xcconfig file affects every build configuration.  (139901429)"
+    ],
+    "knownIssues": [
+      "Known-Issues"
+    ],
+    "workarounds": [],
+    "deprecations": [
+      "Deprecations"
+    ],
+    "apiChanges": [],
+    "requirements": [],
+    "devImpact": []
+  }
+}

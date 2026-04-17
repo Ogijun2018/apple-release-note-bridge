@@ -1,6 +1,16 @@
 {
-  "generatedAt": "2026-04-17T01:54:06.808+09:00",
+  "generatedAt": "2026-04-18T01:29:34.636+09:00",
   "items": [
+    {
+      "platform": "Xcode",
+      "title": "Xcode 26.4.1 (17E202)",
+      "version": "26.4.1",
+      "build": "17E202",
+      "releaseDateJST": "Invalid DateTime",
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=04162026a",
+      "notesUrl": "./xcode-26.4.1-17e202.json",
+      "slug": "xcode-26.4.1-17e202"
+    },
     {
       "platform": "Xcode",
       "title": "Xcode 26.5 beta 2 (17F5022i)",
