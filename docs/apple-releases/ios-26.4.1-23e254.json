@@ -3,11 +3,11 @@
   "sections": {
     "sdkBuild": "",
     "newFeatures": [
-      "New-Features"
+      "text"
     ],
     "changes": [],
     "resolvedIssues": [
-      "paragraph",
+      "text",
       "Fixed: Apps might crash when downloading asset packs.  (169648111)"
     ],
     "knownIssues": [

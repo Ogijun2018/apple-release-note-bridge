@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-04-21T01:39:27.774+09:00",
+  "generatedAt": "2026-04-22T01:36:21.738+09:00",
   "items": [
+    {
+      "platform": "iOS",
+      "title": "iOS 26.5 beta 3 (23F5059e)",
+      "version": "26.5 beta 3",
+      "build": "23F5059e",
+      "releaseDateJST": "Invalid DateTime",
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=04202026a",
+      "notesUrl": "./ios-26.5-beta-3-23f5059e.json",
+      "slug": "ios-26.5-beta-3-23f5059e"
+    },
+    {
+      "platform": "iPadOS",
+      "title": "iPadOS 26.5 beta 3 (23F5059e)",
+      "version": "26.5 beta 3",
+      "build": "23F5059e",
+      "releaseDateJST": "Invalid DateTime",
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=04202026b",
+      "notesUrl": "./ipados-26.5-beta-3-23f5059e.json",
+      "slug": "ipados-26.5-beta-3-23f5059e"
+    },
+    {
+      "platform": "macOS",
+      "title": "macOS 26.5 beta 3 (25F5058e)",
+      "version": "26.5 beta 3",
+      "build": "25F5058e",
+      "releaseDateJST": "Invalid DateTime",
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=04202026c",
+      "notesUrl": "./macos-26.5-beta-3-25f5058e.json",
+      "slug": "macos-26.5-beta-3-25f5058e"
+    },
     {
       "platform": "Xcode",
       "title": "Xcode 26.4.1 (17E202)",
@@ -20,36 +50,6 @@
       "releasesUrl": "https://developer.apple.com/news/releases/?id=04132026g",
       "notesUrl": "./xcode-26.5-beta-2-17f5022i.json",
       "slug": "xcode-26.5-beta-2-17f5022i"
-    },
-    {
-      "platform": "iOS",
-      "title": "iOS 26.5 beta 2 (23F5054d)",
-      "version": "26.5 beta 2",
-      "build": "23F5054d",
-      "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=04132026a",
-      "notesUrl": "./ios-26.5-beta-2-23f5054d.json",
-      "slug": "ios-26.5-beta-2-23f5054d"
-    },
-    {
-      "platform": "iPadOS",
-      "title": "iPadOS 26.5 beta 2 (23F5054d)",
-      "version": "26.5 beta 2",
-      "build": "23F5054d",
-      "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=04132026b",
-      "notesUrl": "./ipados-26.5-beta-2-23f5054d.json",
-      "slug": "ipados-26.5-beta-2-23f5054d"
-    },
-    {
-      "platform": "macOS",
-      "title": "macOS 26.5 beta 2 (25F5053d)",
-      "version": "26.5 beta 2",
-      "build": "25F5053d",
-      "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=04132026c",
-      "notesUrl": "./macos-26.5-beta-2-25f5053d.json",
-      "slug": "macos-26.5-beta-2-25f5053d"
     },
     {
       "platform": "macOS",
