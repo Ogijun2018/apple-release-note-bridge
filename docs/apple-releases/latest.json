@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-04-23T01:37:42.529+09:00",
+  "generatedAt": "2026-04-24T01:58:53.808+09:00",
   "items": [
+    {
+      "platform": "iOS",
+      "title": "iOS 26.4.2 (23E261)",
+      "version": "26.4.2",
+      "build": "23E261",
+      "releaseDateJST": "Invalid DateTime",
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=04222026a",
+      "notesUrl": "./ios-26.4.2-23e261.json",
+      "slug": "ios-26.4.2-23e261"
+    },
+    {
+      "platform": "iPadOS",
+      "title": "iPadOS 26.4.2 (23E261)",
+      "version": "26.4.2",
+      "build": "23E261",
+      "releaseDateJST": "Invalid DateTime",
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=04222026b",
+      "notesUrl": "./ipados-26.4.2-23e261.json",
+      "slug": "ipados-26.4.2-23e261"
+    },
     {
       "platform": "iOS",
       "title": "iOS 26.5 beta 3 (23F5059e)",
@@ -40,46 +60,6 @@
       "releasesUrl": "https://developer.apple.com/news/releases/?id=04162026a",
       "notesUrl": "./xcode-26.4.1-17e202.json",
       "slug": "xcode-26.4.1-17e202"
-    },
-    {
-      "platform": "Xcode",
-      "title": "Xcode 26.5 beta 2 (17F5022i)",
-      "version": "26.5 beta 2",
-      "build": "17F5022i",
-      "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=04132026g",
-      "notesUrl": "./xcode-26.5-beta-2-17f5022i.json",
-      "slug": "xcode-26.5-beta-2-17f5022i"
-    },
-    {
-      "platform": "macOS",
-      "title": "macOS 26.4.1 (25E253)",
-      "version": "26.4.1",
-      "build": "25E253",
-      "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=04092026a",
-      "notesUrl": "./macos-26.4.1-25e253.json",
-      "slug": "macos-26.4.1-25e253"
-    },
-    {
-      "platform": "iOS",
-      "title": "iOS 26.4.1 (23E254)",
-      "version": "26.4.1",
-      "build": "23E254",
-      "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=04082026a",
-      "notesUrl": "./ios-26.4.1-23e254.json",
-      "slug": "ios-26.4.1-23e254"
-    },
-    {
-      "platform": "iPadOS",
-      "title": "iPadOS 26.4.1 (23E254)",
-      "version": "26.4.1",
-      "build": "23E254",
-      "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=04082026b",
-      "notesUrl": "./ipados-26.4.1-23e254.json",
-      "slug": "ipados-26.4.1-23e254"
     }
   ]
 }

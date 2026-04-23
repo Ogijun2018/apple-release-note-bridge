@@ -1,0 +1,22 @@
+{
+  "sourceUrl": "https://developer.apple.com/go/?id=ipados-26_4-rn",
+  "sections": {
+    "sdkBuild": "",
+    "newFeatures": [
+      "text"
+    ],
+    "changes": [],
+    "resolvedIssues": [
+      "text",
+      "Fixed: Apps might crash when downloading asset packs.  (169648111)"
+    ],
+    "knownIssues": [
+      "Known-Issues"
+    ],
+    "workarounds": [],
+    "deprecations": [],
+    "apiChanges": [],
+    "requirements": [],
+    "devImpact": []
+  }
+}
