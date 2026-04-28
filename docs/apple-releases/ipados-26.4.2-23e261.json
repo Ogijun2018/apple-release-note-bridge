@@ -3,15 +3,15 @@
   "sections": {
     "sdkBuild": "",
     "newFeatures": [
-      "text"
+      "New-Features"
     ],
     "changes": [],
     "resolvedIssues": [
-      "text",
-      "Fixed: Apps might crash when downloading asset packs.  (169648111)"
+      "unorderedList"
     ],
     "knownIssues": [
-      "Known-Issues"
+      "heading",
+      "The Accessory Notifications Framework allows accessory companion apps to request notification forwarding and receive notification content from the system through an extension model. It is only available for developer testing on iPhone in this release, and will be available to customers in the EU in a future iOS 26 release.  (172227787)"
     ],
     "workarounds": [],
     "deprecations": [],
