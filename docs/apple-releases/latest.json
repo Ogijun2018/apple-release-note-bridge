@@ -1,45 +1,45 @@
 {
-  "generatedAt": "2026-05-05T02:10:41.872+09:00",
+  "generatedAt": "2026-05-06T02:05:19.469+09:00",
   "items": [
     {
       "platform": "Xcode",
-      "title": "Xcode 26.5 beta 3 (17F5032f)",
-      "version": "26.5 beta 3",
-      "build": "17F5032f",
+      "title": "Xcode 26.5 RC (17F42)",
+      "version": "26.5 RC",
+      "build": "17F42",
       "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=04272026g",
-      "notesUrl": "./xcode-26.5-beta-3-17f5032f.json",
-      "slug": "xcode-26.5-beta-3-17f5032f"
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=05042026i",
+      "notesUrl": "./xcode-26.5-rc-17f42.json",
+      "slug": "xcode-26.5-rc-17f42"
     },
     {
       "platform": "iOS",
-      "title": "iOS 26.5 beta 4 (23F5069b)",
-      "version": "26.5 beta 4",
-      "build": "23F5069b",
+      "title": "iOS 26.5 RC (23F75)",
+      "version": "26.5 RC",
+      "build": "23F75",
       "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=04272026a",
-      "notesUrl": "./ios-26.5-beta-4-23f5069b.json",
-      "slug": "ios-26.5-beta-4-23f5069b"
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=05042026a",
+      "notesUrl": "./ios-26.5-rc-23f75.json",
+      "slug": "ios-26.5-rc-23f75"
     },
     {
       "platform": "iPadOS",
-      "title": "iPadOS 26.5 beta 4 (23F5069b)",
-      "version": "26.5 beta 4",
-      "build": "23F5069b",
+      "title": "iPadOS 26.5 RC (23F75)",
+      "version": "26.5 RC",
+      "build": "23F75",
       "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=04272026b",
-      "notesUrl": "./ipados-26.5-beta-4-23f5069b.json",
-      "slug": "ipados-26.5-beta-4-23f5069b"
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=05042026b",
+      "notesUrl": "./ipados-26.5-rc-23f75.json",
+      "slug": "ipados-26.5-rc-23f75"
     },
     {
       "platform": "macOS",
-      "title": "macOS 26.5 beta 4 (25F5068a)",
-      "version": "26.5 beta 4",
-      "build": "25F5068a",
+      "title": "macOS 26.5 RC (25F71)",
+      "version": "26.5 RC",
+      "build": "25F71",
       "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=04272026c",
-      "notesUrl": "./macos-26.5-beta-4-25f5068a.json",
-      "slug": "macos-26.5-beta-4-25f5068a"
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=05042026c",
+      "notesUrl": "./macos-26.5-rc-25f71.json",
+      "slug": "macos-26.5-rc-25f71"
     },
     {
       "platform": "iOS",

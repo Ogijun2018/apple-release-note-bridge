@@ -1,16 +1,18 @@
 {
-  "sourceUrl": "https://developer.apple.com/go/?id=ipados-26_4-rn",
+  "sourceUrl": "https://developer.apple.com/go/?id=xcode-26_5-sdk-rn",
   "sections": {
     "sdkBuild": "",
     "newFeatures": [
-      "paragraph"
+      "New-Features",
+      "Messages can now be queued in the coding assistant.  (174563016)"
     ],
     "changes": [],
     "resolvedIssues": [
+      "heading",
       "Resolved-Issues"
     ],
     "knownIssues": [
-      "unorderedList"
+      "Known-Issues"
     ],
     "workarounds": [],
     "deprecations": [],

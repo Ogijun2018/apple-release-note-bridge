@@ -3,15 +3,14 @@
   "sections": {
     "sdkBuild": "",
     "newFeatures": [
-      "New-Features"
+      "paragraph"
     ],
     "changes": [],
     "resolvedIssues": [
-      "unorderedList"
+      "Resolved-Issues"
     ],
     "knownIssues": [
-      "heading",
-      "The Accessory Notifications Framework allows accessory companion apps to request notification forwarding and receive notification content from the system through an extension model. It is only available for developer testing on iPhone in this release, and will be available to customers in the EU in a future iOS 26 release.  (172227787)"
+      "unorderedList"
     ],
     "workarounds": [],
     "deprecations": [],
