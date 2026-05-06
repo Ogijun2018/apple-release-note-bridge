@@ -3,14 +3,14 @@
   "sections": {
     "sdkBuild": "",
     "newFeatures": [
-      "paragraph"
+      "text"
     ],
     "changes": [],
     "resolvedIssues": [
-      "Resolved-Issues"
+      "heading"
     ],
     "knownIssues": [
-      "unorderedList"
+      "Known-Issues"
     ],
     "workarounds": [],
     "deprecations": [],

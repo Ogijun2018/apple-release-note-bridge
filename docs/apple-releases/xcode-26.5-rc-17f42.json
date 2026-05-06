@@ -3,13 +3,13 @@
   "sections": {
     "sdkBuild": "",
     "newFeatures": [
-      "New-Features",
-      "Messages can now be queued in the coding assistant.  (174563016)"
+      "heading",
+      "New-Features"
     ],
     "changes": [],
     "resolvedIssues": [
-      "heading",
-      "Resolved-Issues"
+      "unorderedList",
+      "Fixed: An issue causing malformed data in RunSomeTests MCP tool call  (170415923)"
     ],
     "knownIssues": [
       "Known-Issues"
