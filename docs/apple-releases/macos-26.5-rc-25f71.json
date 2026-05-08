@@ -3,11 +3,12 @@
   "sections": {
     "sdkBuild": "",
     "newFeatures": [
-      "unorderedList"
+      "unorderedList",
+      "You can read pricing information for subscriptions that have a monthly with 12-month commitment billing plan configuration in App Store Connect or StoreKit Testing in Xcode through the new"
     ],
     "changes": [],
     "resolvedIssues": [
-      "heading"
+      "unorderedList"
     ],
     "knownIssues": [],
     "workarounds": [],
