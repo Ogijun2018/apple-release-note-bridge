@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-05-09T01:50:25.471+09:00",
+  "generatedAt": "2026-05-10T01:13:39.328+09:00",
   "items": [
+    {
+      "platform": "iOS",
+      "title": "iOS 26.5 RC 2 (23F77)",
+      "version": "26.5 RC 2",
+      "build": "23F77",
+      "releaseDateJST": "Invalid DateTime",
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=05082026a",
+      "notesUrl": "./ios-26.5-rc-2-23f77.json",
+      "slug": "ios-26.5-rc-2-23f77"
+    },
+    {
+      "platform": "iPadOS",
+      "title": "iPadOS 26.5 RC 2 (23F77)",
+      "version": "26.5 RC 2",
+      "build": "23F77",
+      "releaseDateJST": "Invalid DateTime",
+      "releasesUrl": "https://developer.apple.com/news/releases/?id=05082026b",
+      "notesUrl": "./ipados-26.5-rc-2-23f77.json",
+      "slug": "ipados-26.5-rc-2-23f77"
+    },
     {
       "platform": "Xcode",
       "title": "Xcode 26.5 RC (17F42)",
@@ -10,26 +30,6 @@
       "releasesUrl": "https://developer.apple.com/news/releases/?id=05042026i",
       "notesUrl": "./xcode-26.5-rc-17f42.json",
       "slug": "xcode-26.5-rc-17f42"
-    },
-    {
-      "platform": "iOS",
-      "title": "iOS 26.5 RC (23F75)",
-      "version": "26.5 RC",
-      "build": "23F75",
-      "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=05042026a",
-      "notesUrl": "./ios-26.5-rc-23f75.json",
-      "slug": "ios-26.5-rc-23f75"
-    },
-    {
-      "platform": "iPadOS",
-      "title": "iPadOS 26.5 RC (23F75)",
-      "version": "26.5 RC",
-      "build": "23F75",
-      "releaseDateJST": "Invalid DateTime",
-      "releasesUrl": "https://developer.apple.com/news/releases/?id=05042026b",
-      "notesUrl": "./ipados-26.5-rc-23f75.json",
-      "slug": "ipados-26.5-rc-23f75"
     },
     {
       "platform": "macOS",
